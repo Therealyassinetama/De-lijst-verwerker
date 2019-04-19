@@ -1,0 +1,10 @@
+C:\Users\yassi\Desktop\De lijst‐verwerker\De lijst‐verwerker\bin\Debug\De lijst‐verwerker.exe.config
+C:\Users\yassi\Desktop\De lijst‐verwerker\De lijst‐verwerker\bin\Debug\De lijst‐verwerker.exe
+C:\Users\yassi\Desktop\De lijst‐verwerker\De lijst‐verwerker\bin\Debug\De lijst‐verwerker.pdb
+C:\Users\yassi\Desktop\De lijst‐verwerker\De lijst‐verwerker\obj\Debug\De lijst‐verwerker.csprojAssemblyReference.cache
+C:\Users\yassi\Desktop\De lijst‐verwerker\De lijst‐verwerker\obj\Debug\De_lijst_verwerker.Form1.resources
+C:\Users\yassi\Desktop\De lijst‐verwerker\De lijst‐verwerker\obj\Debug\De_lijst_verwerker.Properties.Resources.resources
+C:\Users\yassi\Desktop\De lijst‐verwerker\De lijst‐verwerker\obj\Debug\De lijst‐verwerker.csproj.GenerateResource.cache
+C:\Users\yassi\Desktop\De lijst‐verwerker\De lijst‐verwerker\obj\Debug\De lijst‐verwerker.csproj.CoreCompileInputs.cache
+C:\Users\yassi\Desktop\De lijst‐verwerker\De lijst‐verwerker\obj\Debug\De lijst‐verwerker.exe
+C:\Users\yassi\Desktop\De lijst‐verwerker\De lijst‐verwerker\obj\Debug\De lijst‐verwerker.pdb
